@@ -1,5 +1,5 @@
 # Catalog
--**Requirements**
+**Requirements**
 - Node.js (v12 or higher)
 -  Clone this repository to your local machine
 -   **Run the Script**: Execute the code using the following command:
